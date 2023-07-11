@@ -17,3 +17,5 @@ abc = 3 //nao fazer!!
 console.log(global.abc)
 
 //Ter consciência do runtime que vc está e as especifidades de cada um
+//nao colocar var em espopo global, se precisar colocar em obj
+//declarar constantes

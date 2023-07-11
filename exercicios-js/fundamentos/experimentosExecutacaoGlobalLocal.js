@@ -16,3 +16,4 @@ console.log(module.exports)
 abc = 3 //nao fazer!!
 console.log(global.abc)
 
+//Ter consciência do runtime que vc está e as especifidades de cada um

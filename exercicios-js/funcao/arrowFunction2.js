@@ -7,4 +7,5 @@ function Pessoa(){
     }, 1000)
 }
 
+
 new Pessoa

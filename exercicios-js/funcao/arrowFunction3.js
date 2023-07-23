@@ -11,7 +11,6 @@ comparaComThis(global)
 comparaComThis(obj)
 
 //testando se funciona isso com arrow function
-
 let comparaComThisArrow = param => console.log(this === param)
 comparaComThisArrow(global) //na arrow a função aponta para o obj msm
 comparaComThisArrow(this)
